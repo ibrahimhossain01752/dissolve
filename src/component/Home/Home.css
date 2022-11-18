@@ -1,0 +1,38 @@
+.bg{
+    background: #0F112F;
+}
+
+.text-white{
+    gap: 250px;
+}
+.text_one{
+    margin-left:-200px;
+}
+.date_one{
+    margin-left:95px;
+}
+.text_two{
+    margin-left:-140px;
+}
+.text_th{
+    margin-left:-65px;
+}
+.text_fo{
+    margin-left:-100px;
+}
+.ml{
+    margin-left:-10px;
+}
+.mx_two{
+    margin-left:-10px;
+}
+.card{
+    width:104px;
+    height:104px;
+    background:#0F112F;
+}
+.arrow{
+    color:white;
+    margin-left: -420px;
+    font-size:25px;
+}
